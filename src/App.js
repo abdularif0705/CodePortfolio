@@ -7,7 +7,7 @@ import js from "./js.png";
 
 function AppHeader() {
   return <div id="app__header">
-    <h1 id="name">Zackary Santana</h1>
+    <h1 id="name">Abdul Arif</h1>
     <div id="btn__group">
       <button onClick={() => {
           window.open("https://www.linkedin.com/in/abdularif0705/");
