@@ -10,10 +10,10 @@ function AppHeader() {
     <h1 id="name">Zackary Santana</h1>
     <div id="btn__group">
       <button onClick={() => {
-          window.open("https://www.linkedin.com/in/zackary-santana/");
+          window.open("https://www.linkedin.com/in/abdularif0705/");
       }}>LinkedIn</button>
       <button onClick={() => {
-          window.open("https://github.com/ZackarySantana");
+          window.open("https://github.com/abdularif0705");
       }}>GitHub</button>
     </div>
   </div>
